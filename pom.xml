@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>com.onelogin</groupId>
 			<artifactId>java-saml</artifactId>
-			<version>2.5.0</version>
+			<version>2.9.0</version>
 		</dependency>
 		<dependency>
 			<groupId>de.mkammerer</groupId>
@@ -133,7 +133,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
-			<version>5.3.19</version>
+			<version>5.3.20</version>
 			<scope>test</scope>
 		</dependency>
 
